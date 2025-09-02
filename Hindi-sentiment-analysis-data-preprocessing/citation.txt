@@ -1,0 +1,3 @@
+If you use this dataset in your research or project, please consider citing the dataset as follows: Dataset Name: HSAC
+Repository Name: A-Hindi-Sentiment-Analysis-Corpus-from-Amazon-Reviews
+URL: https://github.com/Udrasht/Hindi-Sentiment-Analysis-Corpus-from-Amazon-Reviews
